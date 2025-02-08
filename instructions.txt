@@ -1,0 +1,8 @@
+1. Setup Ollama - https://ollama.com/download/mac  
+
+2. Install the following Python Packages
+pip install crewai crewai_tools langchain_community
+
+3. For the hierarchical event planning example create an account on - https://serper.dev/ to get the API key 
+
+4. Play around with the notebooks -  crewai-sequential-blogpost and crewai-event-planner-hierarchical
